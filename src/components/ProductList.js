@@ -10,6 +10,7 @@ import { faEnvelope, faCartShopping} from '@fortawesome/free-solid-svg-icons'
 const ProductList = () => {
   const [products, setProducts] = useState(MockData);
   const [search,setSearch]=useState('');
+  console.log(products);
   return (
     <div>
       <div className='productList'>

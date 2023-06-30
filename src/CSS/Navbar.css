@@ -1,0 +1,34 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(59, 61, 59);
+}
+li{
+    list-style: none;
+    margin: 0 30px;
+    color: white;
+    font-size: larger;
+    cursor: pointer;
+}
+.rightUl{
+    display: flex;
+    justify-content: space-evenly;
+}
+li:hover{
+    color: rgb(229, 213, 36);
+}
+
+i{
+    color: white;
+}
+.cart{
+    display: flex;
+    position: relative;
+    margin-top: 5px;
+}
+.quantity{
+    position: absolute;
+    top: -20px;
+    left: 8px;
+    text-align: center;
+}

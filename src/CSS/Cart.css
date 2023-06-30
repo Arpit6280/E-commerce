@@ -1,0 +1,34 @@
+/* .tableContainer{
+
+} */
+
+.table{
+	width: 90%;
+	border-collapse: collapse;
+    margin: 10px 5%;
+}
+
+.table td,.table th{
+  padding:12px 15px;
+  border:1px solid #ddd;
+  text-align: center;
+  font-size:16px;
+}
+
+.table th{
+	background-color: #76757b;
+	color:#ffffff;
+}
+
+.table tbody tr{
+	background-color: #f5f5f5;
+}
+
+.totalPrice{
+    margin-left:75% ;
+}
+
+.image_C{
+    width: 100px;
+    height: 100px;
+}

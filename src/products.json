@@ -1,0 +1,63 @@
+{
+  "products":[
+  
+    {
+      "id": 1,
+      "name": "Shirt",
+      "image": "https://www.transparentpng.com/thumb/shirt/jcsIrn-long-sleeved-t-shirt-collar-png.png",
+      "price": 10.99,
+      "description":"Orange solid opaque casual shirt ,has a mandarin collar, button placket, 1 patch pocket, long roll-up sleeves, curved hem Brand Fit- Modern Regular fit"
+    },
+    {
+      "id": 2,
+      "name": "Denim Jeans",
+      "image": "https://atlas-content-cdn.pixelsquid.com/stock-images/mens-jeans-4G3zLJD-600.jpg",
+      "price": 19.99,
+      "description":" Denim Jeans Dyed cotton yarn woven in warp-faced style Dense threads result in low thread counts"
+    },
+    {
+      "id": 3,
+      "name": "Women Purple Handbag",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/hand-messenger-bag/k/l/0/classic-unique-design-women-satchel-handbags-shoulder-purses-original-imagjdfmvr4mfgzq.jpeg?q=70",
+      "price": 7.99,
+      "description":"This handbag is made of PU and artificial leather to last you a long time. Besides being durable, this material is easy to maintain and offers an elegant look. The durability of this bag ensures it can withstand everyday wear and tear, making it suitable for working women. You can get this PU and artificial leather handbag to enhance your accessory collection."
+    },
+    {
+      "id": 4,
+      "name": "Poco C50",
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/3/l/x/-original-imaghmtcmxwgypsk.jpeg?q=70",
+      "price": 15.99,
+      "description":"The POCO C50 has an 8 MP primary camera with a depth sensor, upping the scale in terms of taking stunning pictures. Additionally, this phone's 5 MP front camera allows you to take eye-catching selfies and boost your social media presence. A 5000 mAh battery and 10 W charging capabilities on the POCO C50 ensure that you won't run out of power even after spending several hours using the device for activities like work, entertainment, and gaming. With a fingerprint sensor on the rear of the phone, the C50 is made to be secure. The rear panel of the phone has a leather-like texture that emits a luxurious appearance, which enhances its attractiveness and elegance."
+       },
+    {
+        "id": 5,
+        "name": "Beethosol TV",
+        "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/v/e/m/-original-imaghy7kt67kxvhq.jpeg?q=70",
+        "price": 15.99,
+        "description":"You can enjoy your favourite movies, catch up on news, and binge-watch TV series on the BeethoSOL 80 cm FHD Smart TV. It features an elegant metal frame with a bezel-less design, allowing you to enjoy a widescreen view. In addition, this TV is sure to enhance your aural experience with Dolby Audio, which provides 24 W high-fidelity sound. Furthermore, boasting a full HD display and wide colour gamut, this TV provides high-quality visuals. Featuring Dolby Audio that offers 20 W high-fidelity sound, this TV is sure to enhance your aural experience. So, no matter what kind of content you're watching, you'll be immersed and entertained by this TV's high-quality sound."
+      },
+      {
+        "id": 6,
+        "name": "SAMSUNG 183 L",
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/refrigerator-new/n/b/m/-original-imagqujv9wqzugng.jpeg?q=70",
+        "price": 15.99,
+        "description":"Owing to its Digital Inverter technology, the Samsung Refrigerator ensures energy-efficient, low-noise, and durable performance. Additionally, this refrigerator's Digital Inverter Compressor automatically modifies its speed in response to the need for cooling. As this refrigerator functions with a wide voltage range of 100 V to up to 300 V, it is safeguarded against power fluctuations. And, the stabiliser-free operation helps this refrigerator operate in a steady and reliable manner. Moreover, in case the voltage is too high, this refrigerator automatically switches off the power and ensures optimal safety against electrical damage."
+      },
+      {
+        "id": 7,
+        "name": "PARTY Analog Watch",
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/watch/e/d/m/-original-imagnqcjgs9cszqg.jpeg?q=70",
+        "price": 15.99,
+        "description":"Get a contemporary and stylish look with this watch that flaunts smart dial. This funky watch sports a square-shaped dial with time and date display. The metallic strap adds panache to its overall appeal. This watch has water resistance up to 50 metres and comes in a metallic box for added protection."
+       },
+      {
+        "id": 8,
+        "name": "Dumbbell Rod Kit Gym",
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/kit/f/v/v/pvc-home-gym-set-8kg-2kg-4pcs-plate-with-dumbbell-rod-gym-original-imagg6np4hd83fpd.jpeg?q=70",
+        "price": 15.99,
+        "description":"Anti-slip Handle: Its non-slip texture dumbbell handle gives you a comfortable feeling during the whole process of your exercise. Steel: Solid steel core for reliable strength; will not bend or break after repeated use Strength training: This unique combination suits the light to moderate user, both females & males. Convenient: Its design will make your exercise routine simple. Each weight is specially designed, with easy handle grips to make moving, loading, and storage smooth. Increase balance: Dumbbells can be used to perform muscle strengthening exercises and endurance training, and to increase flexibility and balance."
+         }
+    
+
+  ]
+}

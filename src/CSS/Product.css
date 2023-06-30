@@ -1,0 +1,26 @@
+.products{
+    margin: 20px 35px;
+}
+
+.section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    border: 2px solid rgb(205, 198, 198);
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+}
+
+.addtoCart{
+    cursor: pointer;
+    margin-top: 15px;
+    padding: 2px 6px;
+    height: 30px;
+    background-color: rgb(33, 127, 190);
+    color: white;
+    border: 1px solid rgb(33, 127, 190);
+    border-radius: 10px;
+}
